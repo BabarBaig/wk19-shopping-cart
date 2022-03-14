@@ -174,6 +174,7 @@ const Products = (props) => {
     //cart.map((item, index) => deleteCartItem(index));
     return newTotal;
   };
+
   const restockProducts = (url) => {
     doFetch(url);
     let newItems = data.map((item) => {

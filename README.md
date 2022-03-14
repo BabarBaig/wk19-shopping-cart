@@ -1,4 +1,4 @@
 # wk19-shopping-cart
 
 Create a shopping cart app using node, express, Strapi and Postman.
-See the [docss] folder for implementation details.
+See the [cartDB] folder for implementation details.
